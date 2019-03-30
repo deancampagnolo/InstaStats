@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "liquid-crossing-236106",
+  "private_key_id": "1a0343ad2ed1ba63c85e9439e6864b9ea4b12a17",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDEJ86Ifh4MfS/3\nxDSAt+VKPLNhLCVyeKoAYHh3qgZPMCCISl+fcvxV8+bU7bhPox1FGub0RdFZEij4\nG/yXQnWZ+p9w2un96ibcXsrwpQ0BtoZwtvsfJSHaqZrPpl8/WoY9+YCYQVDc0vxf\nbuYeOfBfTKOKppWtcy3lF8MCM0BalVmwRxGOl574f2XU9ZN0dXDjJzRxNQARC7Xk\ngBCH7LRzpe+e2GgXqbmL3y97zSdmE4WbFGzrjNW+XtiJNC2YAgXK2UeFM9jLlDnN\n95yP3hqwWF4XicXK4vU16mzX1hX/vnjdJ4f3cGb7xe/vkmMH8WVrSwZk8ytu7Wgq\nt0sS1U+hAgMBAAECggEAYbWogkI8aqEzczqXoqS4AS5Sdm2cq7RijnR/nbAim3CQ\nTAOsNUt8Wb54dgmCXZ0Vd/ZqJDThDvrmUIz0Wk5/MTfwEzHhDBwGxpArjArTe052\nEpB7b+y5u+fvV097M54+r4Fo5q7mflFU6J7f3x+iVn5hGrBXb8Knkm4vNBnejR/n\n4Za1IsRCB3a6JeYd3xZnBKQmRuulnbhDmvq9X7JUCkRU4PZCPc37stJXvxGIOmhE\nbiV9/ams07eVjHtsKkXCRpKZBUtZWgzMINKZX6a/H5LudZ7bd9tMuD4dnHHxD1ff\nViWHp6GxMs2efGxS0LBzEq8XQDjsW9bSrJeaznq19wKBgQDnldca9d/Pd9BSJg8y\nYZFnz5ViSnMJEpDMglUvOJjyS0C0w+ldNrhIl7QlkgnjktDXCBWEsNq5HqhxdvQ1\nqR/KDXuKiNY1CI/4gPilqvoEbIYjigBGFxBBnOWyg4AR0nwqDzYQ38f2JmVZaHG6\nfa+mFcs9YHff7WEaLJgYlBZivwKBgQDY1cQQorCQ+mcNh8JkF17GVJq51lkpnzL2\n4JgvNgIfjpdKeUtSyaKvk31uoVRjHlSI/DG9mpeOOqbcqqjjDIG8SrtIUu6/V50r\nSbBYQpKAovswr/3W3dBaMl/SzaL/14pocnIqqTAF7hOXQr6YNpspYbkoDc7fVH7T\nEKVeGk/FnwKBgQCRnW37zc5ErZmXjcbQbvj2xVewzg83DS1u6iSV5IiHETpGb0k1\nC0skmf70ALenGJGoI7UkEe/1polTjvBPLWCHs6KSoSfPgOrF3pJ52OAMGBDgF83E\nRIw8NWNYs8a7bhYUfCwKwCsDY3Emnr2j/ZOMYvfASAAYFTKROqkIC1VoEQKBgQCS\nmoVDkhu7CfIfDcj6j2p+wbkTKL+ECqUUkemTEfsBhxD3Q2cQBFBAUYIfCGjb0yfo\nrkqbHSiW+0TSMXiaelxFCGnzjk7pg706BUp7ghc3bfpTgsonOjWipihviKVKQVrN\nH4PdICLd/4ezX2cp1tG1euMLF7rk+GX/ImQMadHBlQKBgQCkkn7kQk3zadaW7dwK\nPBADNzg6ILoizgc8tOStPZZBItTPfpRxaooZxKiKVnVgVa6ISxx8ANSfr//KIwn+\n+jj9PEPBE25s8v+PN0HSM4vkPh6nPQI4VFiy0klImYI8KRtbc9H6nEkzW0W2+KZ8\n2GJGNOvaW71Fe2huhl7Ooh57VA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lahacks2019@liquid-crossing-236106.iam.gserviceaccount.com",
+  "client_id": "116930777719107840158",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lahacks2019%40liquid-crossing-236106.iam.gserviceaccount.com"
+}

@@ -1,0 +1,7 @@
+I tried many different binning strategies and ultimately found one that I thought maximized the accuracy the best. I
+also learned on piazza that we should try not normalizing the data before passing it into the nltk pos taggers.
+However when I tested this I received much worse results ( a almost 10 point decrease in percentage) than normalizing
+the data beforehand.
+
+As for my accuracies: I received a 86.7% on the only words feature; received a 75.3% on words and pos feature;
+received a 77.8% on words pos liwc features. To reiterate - My best feature set was the only words feature at 86.7%.
