@@ -28,22 +28,23 @@ def main():
             print()
             listofnames.append(username)
 
-    '''listofwebsites = []
+    listofwebsites = []
     for i in listofnames:
         m = "https://socialblade.com/instagram/user/" + i
         listofwebsites.append(m)
-    print(listofwebsites)'''
+    print(listofwebsites)
 
-    h = "https://socialblade.com/instagram/user/therock" #remove
+    h = "https://socialblade.com/instagram/user/therock"
 #for i in range(len(listofwebsites)):
-    page = requests.get(h) #listofwebsites[i] instead of h
+#listofwebsites[i] instead of h
+    page = requests.get(h)
     print(page.status_code)
 
 
 
 
 
-    '''compiledlist = []
+    compiledlist = []
     for i in range(len(listofnames)):
         indivlist = []
         indivlist.append(listofnames[i])
@@ -56,7 +57,7 @@ def main():
 
 
     print(listofnames)
-    print(compiledlist)'''
+    print(compiledlist)
 
 
 
