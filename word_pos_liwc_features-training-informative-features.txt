@@ -3,38 +3,38 @@ Most Informative Features
            BI_POS_JJ_VBD = 2              negati : positi =     16.3 : 1.0
           UNI_overpriced = 1              negati : positi =     15.7 : 1.0
                UNI_bland = 1              negati : positi =     15.7 : 1.0
-                UNI_back = 2              negati : positi =     13.0 : 1.0
           UNI_understand = 1              negati : positi =     13.0 : 1.0
           BI_POS_VBG_PRP = 1              negati : positi =     13.0 : 1.0
+                UNI_back = 2              negati : positi =     13.0 : 1.0
                 UNI_said = 2              negati : positi =     12.3 : 1.0
              UNI_charged = 1              negati : positi =     12.3 : 1.0
         Negative Emotion = 3              negati : positi =     12.2 : 1.0
             UNI_informed = 1              negati : positi =     11.7 : 1.0
  BIGRAM_service_friendly = 1              positi : negati =     11.7 : 1.0
-                UNI_cozy = 1              positi : negati =     11.0 : 1.0
+           BI_POS_VBD_RB = 3              negati : positi =     11.0 : 1.0
          BIGRAM_never_go = 1              negati : positi =     11.0 : 1.0
              UNI_awesome = 1              positi : negati =     11.0 : 1.0
-           BI_POS_VBD_RB = 3              negati : positi =     11.0 : 1.0
+                UNI_cozy = 1              positi : negati =     11.0 : 1.0
              UNI_problem = 1              negati : positi =     10.6 : 1.0
              UNI_manager = 1              negati : positi =     10.6 : 1.0
       BIGRAM_pretty_good = 1              negati : positi =     10.3 : 1.0
                 UNI_rest = 1              negati : positi =      9.8 : 1.0
            BI_POS_CD_NNS = 3              negati : positi =      9.8 : 1.0
             BI_POS_DT_CD = 1              negati : positi =      9.7 : 1.0
+      BIGRAM_would_never = 1              negati : positi =      9.7 : 1.0
+              UNI_paying = 1              negati : positi =      9.7 : 1.0
               UNI_superb = 1              positi : negati =      9.7 : 1.0
             UNI_complain = 1              negati : positi =      9.7 : 1.0
      BIGRAM_italian_food = 1              positi : negati =      9.7 : 1.0
-              UNI_paying = 1              negati : positi =      9.7 : 1.0
-      BIGRAM_would_never = 1              negati : positi =      9.7 : 1.0
-           BI_POS_RB_VBD = 3              negati : positi =      9.6 : 1.0
-                UNI_bill = 1              negati : positi =      9.6 : 1.0
           BI_POS_VBG_VBD = 1              negati : positi =      9.6 : 1.0
+           BI_POS_RB_VBD = 3              negati : positi =      9.6 : 1.0
              UNI_POS_PRP = 3              negati : positi =      9.6 : 1.0
+                UNI_bill = 1              negati : positi =      9.6 : 1.0
               UNI_looked = 1              negati : positi =      9.4 : 1.0
                   UNI_us = 3              negati : positi =      9.3 : 1.0
               UNI_bistro = 1              positi : negati =      9.0 : 1.0
-        BIGRAM_best_ever = 1              positi : negati =      9.0 : 1.0
               UNI_anyway = 1              negati : positi =      9.0 : 1.0
+        BIGRAM_best_ever = 1              positi : negati =      9.0 : 1.0
                UNI_asked = 2              negati : positi =      9.0 : 1.0
                  UNI_bad = 1              negati : positi =      9.0 : 1.0
              UNI_brought = 1              negati : positi =      8.8 : 1.0
@@ -43,20 +43,20 @@ Most Informative Features
             UNI_waitress = 2              negati : positi =      8.3 : 1.0
                 UNI_told = 2              negati : positi =      8.3 : 1.0
            UNI_delicious = 1              positi : negati =      8.3 : 1.0
-     BIGRAM_service_slow = 1              negati : positi =      8.3 : 1.0
-           BI_POS_VBN_VB = 1              negati : positi =      8.3 : 1.0
-BIGRAM_service_excellent = 1              positi : negati =      8.3 : 1.0
-             UNI_forever = 1              negati : positi =      8.3 : 1.0
-            UNI_weekends = 1              positi : negati =      8.3 : 1.0
               UNI_unless = 1              negati : positi =      8.3 : 1.0
-           BI_POS_VB_PRP = 1              negati : positi =      7.8 : 1.0
+            UNI_weekends = 1              positi : negati =      8.3 : 1.0
+     BIGRAM_service_slow = 1              negati : positi =      8.3 : 1.0
+             UNI_forever = 1              negati : positi =      8.3 : 1.0
+BIGRAM_service_excellent = 1              positi : negati =      8.3 : 1.0
+           BI_POS_VBN_VB = 1              negati : positi =      8.3 : 1.0
          BIGRAM_one_best = 1              positi : negati =      7.8 : 1.0
-               UNI_north = 1              positi : negati =      7.7 : 1.0
-           BI_POS_VBD_DT = 1              negati : positi =      7.7 : 1.0
+           BI_POS_VB_PRP = 1              negati : positi =      7.8 : 1.0
                 UNI_lack = 1              negati : positi =      7.7 : 1.0
              UNI_dropped = 1              negati : positi =      7.7 : 1.0
-            BI_POS_RB_NN = 3              negati : positi =      7.7 : 1.0
+               UNI_north = 1              positi : negati =      7.7 : 1.0
+           BI_POS_VBD_DT = 1              negati : positi =      7.7 : 1.0
  BIGRAM_customer_service = 1              negati : positi =      7.7 : 1.0
+            BI_POS_RB_NN = 3              negati : positi =      7.7 : 1.0
              UNI_instead = 1              negati : positi =      7.6 : 1.0
                 UNI_left = 1              negati : positi =      7.5 : 1.0
     BIGRAM_service_great = 1              positi : negati =      7.4 : 1.0
@@ -64,38 +64,38 @@ BIGRAM_service_excellent = 1              positi : negati =      8.3 : 1.0
                   UNI_ok = 1              negati : positi =      7.3 : 1.0
           BI_POS_VBD_VBD = 1              negati : positi =      7.1 : 1.0
                UNI_asked = 1              negati : positi =      7.1 : 1.0
-              UNI_waited = 1              negati : positi =      7.0 : 1.0
              UNI_amazing = 1              positi : negati =      7.0 : 1.0
            BI_POS_PRP_CD = 1              negati : positi =      7.0 : 1.0
                 UNI_best = 2              positi : negati =      7.0 : 1.0
-          BI_POS_VBP_VBD = 1              negati : positi =      7.0 : 1.0
               UNI_seated = 2              negati : positi =      7.0 : 1.0
-               UNI_avoid = 1              negati : positi =      7.0 : 1.0
+          BI_POS_VBP_VBD = 1              negati : positi =      7.0 : 1.0
+              UNI_waited = 1              negati : positi =      7.0 : 1.0
+               UNI_store = 1              negati : positi =      7.0 : 1.0
+             UNI_lacking = 1              negati : positi =      7.0 : 1.0
             BI_POS_MD_NN = 1              negati : positi =      7.0 : 1.0
+        BIGRAM_came_back = 1              negati : positi =      7.0 : 1.0
+          UNI_disgusting = 1              negati : positi =      7.0 : 1.0
                 UNI_poor = 1              negati : positi =      7.0 : 1.0
                 UNI_love = 1              positi : negati =      7.0 : 1.0
-               UNI_store = 1              negati : positi =      7.0 : 1.0
-          UNI_disgusting = 1              negati : positi =      7.0 : 1.0
-             UNI_lacking = 1              negati : positi =      7.0 : 1.0
-               UNI_burnt = 1              negati : positi =      7.0 : 1.0
-        BIGRAM_came_back = 1              negati : positi =      7.0 : 1.0
               UNI_secret = 1              positi : negati =      7.0 : 1.0
+               UNI_burnt = 1              negati : positi =      7.0 : 1.0
+               UNI_avoid = 1              negati : positi =      7.0 : 1.0
                 UNI_cold = 1              negati : positi =      6.7 : 1.0
            UNI_excellent = 1              positi : negati =      6.6 : 1.0
            UNI_fantastic = 1              positi : negati =      6.6 : 1.0
                UNI_wrong = 1              negati : positi =      6.5 : 1.0
-     BIGRAM_needless_say = 1              negati : positi =      6.3 : 1.0
-       BIGRAM_45_minutes = 1              negati : positi =      6.3 : 1.0
-            UNI_standard = 1              negati : positi =      6.3 : 1.0
-            UNI_followed = 1              negati : positi =      6.3 : 1.0
-               UNI_quiet = 1              positi : negati =      6.3 : 1.0
-   BIGRAM_excellent_food = 1              positi : negati =      6.3 : 1.0
-               UNI_hurry = 1              negati : positi =      6.3 : 1.0
-                UNI_mine = 1              negati : positi =      6.3 : 1.0
-            UNI_needless = 1              negati : positi =      6.3 : 1.0
-    BIGRAM_minutes_later = 1              negati : positi =      6.3 : 1.0
-               UNI_times = 2              negati : positi =      6.3 : 1.0
                UNI_still = 2              negati : positi =      6.3 : 1.0
+            UNI_standard = 1              negati : positi =      6.3 : 1.0
+               UNI_quiet = 1              positi : negati =      6.3 : 1.0
+    BIGRAM_minutes_later = 1              negati : positi =      6.3 : 1.0
             UNI_features = 1              positi : negati =      6.3 : 1.0
+               UNI_hurry = 1              negati : positi =      6.3 : 1.0
+               UNI_times = 2              negati : positi =      6.3 : 1.0
+            UNI_followed = 1              negati : positi =      6.3 : 1.0
+   BIGRAM_excellent_food = 1              positi : negati =      6.3 : 1.0
+            UNI_needless = 1              negati : positi =      6.3 : 1.0
+       BIGRAM_45_minutes = 1              negati : positi =      6.3 : 1.0
+     BIGRAM_needless_say = 1              negati : positi =      6.3 : 1.0
+                UNI_mine = 1              negati : positi =      6.3 : 1.0
         Negative Emotion = 2              negati : positi =      6.3 : 1.0
             UNI_ambiance = 1              positi : negati =      6.2 : 1.0

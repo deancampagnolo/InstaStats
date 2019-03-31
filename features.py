@@ -284,6 +284,7 @@ def get_features_category_tuples(category_text_dict, feature_set):
 
     counter = 0
     for category in category_text_dict:
+        #print(category)
         for text in category_text_dict[category]:
 
             words, tags = get_words_tags(text)

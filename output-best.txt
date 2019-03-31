@@ -1,4 +1,4 @@
-The accuracy of dev_examples.tsv is: 0.8678571428571429
+The accuracy of train_examples.tsv is: 0.7925
 Confusion Matrix:
          |   n   p |
          |   e   o |
@@ -9,7 +9,7 @@ Confusion Matrix:
          |   v   v |
          |   e   e |
 ---------+---------+
-negative |<132>  8 |
-positive |  29<111>|
+negative |<530> 70 |
+positive | 179<421>|
 ---------+---------+
 (row = reference; col = test)

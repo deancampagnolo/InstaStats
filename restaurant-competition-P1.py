@@ -98,7 +98,7 @@ def train_eval(train_file, feature_set, eval_file=None):
     #model = train_model(train_file, feature_set,  binning=binning)
     model = train_model(train_file, feature_set, train_file)
 
-    #model.show_most_informative_features(30)
+    model.show_most_informative_features(30)
 
     counter = 0
 
@@ -172,7 +172,7 @@ def main():
 
     # add the necessary arguments to the argument parser
     parser = argparse.ArgumentParser(description='Assignment 3')
-    parser.add_argument('-d', dest="data_fname", default="train_examples.tsv",
+    parser.add_argument('-d', dest="data_fname", default="dev_examples.tsv",
                         help='File name of the testing data.')
     args = parser.parse_args()
 
@@ -180,7 +180,7 @@ def main():
     train_data = args.data_fname
 
 
-    eval_data = "dev_examples.tsv"
+    eval_data = "train_examples.tsv"
 
 
     the_data = data_helper.get_reviews("data/test.txt")
