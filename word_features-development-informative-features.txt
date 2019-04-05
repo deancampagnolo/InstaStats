@@ -2,100 +2,100 @@ Most Informative Features
            UNI_wonderful = 1              positi : negati =     15.0 : 1.0
              UNI_manager = 1              negati : positi =     11.0 : 1.0
            UNI_delicious = 1              positi : negati =     10.3 : 1.0
-              UNI_seemed = 1              negati : positi =      8.3 : 1.0
            UNI_expensive = 1              negati : positi =      8.3 : 1.0
+              UNI_seemed = 1              negati : positi =      8.3 : 1.0
                 UNI_slow = 1              negati : positi =      7.7 : 1.0
                 UNI_else = 1              negati : positi =      7.7 : 1.0
-       BIGRAM_great_food = 1              positi : negati =      6.3 : 1.0
-              UNI_choose = 1              positi : negati =      6.3 : 1.0
               UNI_looked = 1              negati : positi =      6.3 : 1.0
+              UNI_choose = 1              positi : negati =      6.3 : 1.0
+       BIGRAM_great_food = 1              positi : negati =      6.3 : 1.0
                   UNI_us = 2              negati : positi =      6.3 : 1.0
+                UNI_miss = 1              positi : negati =      5.7 : 1.0
              UNI_arrived = 1              negati : positi =      5.7 : 1.0
+               UNI_guess = 1              negati : positi =      5.7 : 1.0
               UNI_called = 1              negati : positi =      5.7 : 1.0
              UNI_offered = 1              negati : positi =      5.7 : 1.0
+           UNI_fantastic = 1              positi : negati =      5.7 : 1.0
       BIGRAM_great_place = 1              positi : negati =      5.7 : 1.0
        BIGRAM_food_great = 1              positi : negati =      5.7 : 1.0
-               UNI_guess = 1              negati : positi =      5.7 : 1.0
-           UNI_fantastic = 1              positi : negati =      5.7 : 1.0
-                UNI_miss = 1              positi : negati =      5.7 : 1.0
                 UNI_told = 1              negati : positi =      5.4 : 1.0
                 UNI_able = 1              negati : positi =      5.0 : 1.0
                 UNI_gone = 1              negati : positi =      5.0 : 1.0
-              UNI_please = 1              negati : positi =      5.0 : 1.0
                 UNI_cold = 1              negati : positi =      5.0 : 1.0
+              UNI_please = 1              negati : positi =      5.0 : 1.0
                 UNI_meat = 1              negati : positi =      5.0 : 1.0
                    UNI_3 = 1              negati : positi =      4.6 : 1.0
               UNI_seated = 1              negati : positi =      4.6 : 1.0
             UNI_favorite = 1              positi : negati =      4.6 : 1.0
              UNI_quality = 1              negati : positi =      4.4 : 1.0
-              UNI_change = 1              negati : positi =      4.3 : 1.0
-               UNI_local = 1              positi : negati =      4.3 : 1.0
               UNI_coming = 1              negati : positi =      4.3 : 1.0
-              UNI_unique = 1              positi : negati =      4.3 : 1.0
-               UNI_fried = 1              negati : positi =      4.3 : 1.0
+               UNI_local = 1              positi : negati =      4.3 : 1.0
             UNI_included = 1              negati : positi =      4.3 : 1.0
-             UNI_instead = 1              negati : positi =      4.3 : 1.0
+              UNI_unique = 1              positi : negati =      4.3 : 1.0
                UNI_later = 1              negati : positi =      4.3 : 1.0
+              UNI_change = 1              negati : positi =      4.3 : 1.0
+               UNI_fried = 1              negati : positi =      4.3 : 1.0
             UNI_prepared = 1              negati : positi =      4.3 : 1.0
+             UNI_instead = 1              negati : positi =      4.3 : 1.0
                 UNI_best = 1              positi : negati =      4.2 : 1.0
-                  UNI_us = 3              negati : positi =      4.2 : 1.0
                  UNI_bad = 1              negati : positi =      4.2 : 1.0
+                  UNI_us = 3              negati : positi =      4.2 : 1.0
                  UNI_got = 1              negati : positi =      4.1 : 1.0
                  UNI_say = 1              negati : positi =      3.9 : 1.0
                UNI_think = 1              negati : positi =      3.9 : 1.0
                 UNI_town = 1              positi : negati =      3.8 : 1.0
      BIGRAM_food_service = 1              positi : negati =      3.8 : 1.0
                 UNI_left = 1              negati : positi =      3.8 : 1.0
-               UNI_green = 1              positi : negati =      3.7 : 1.0
-            UNI_pleasant = 1              positi : negati =      3.7 : 1.0
+                   UNI_6 = 1              negati : positi =      3.7 : 1.0
+              UNI_tender = 1              positi : negati =      3.7 : 1.0
              UNI_cuisine = 1              positi : negati =      3.7 : 1.0
+            UNI_terrible = 1              negati : positi =      3.7 : 1.0
                UNI_start = 1              negati : positi =      3.7 : 1.0
+                  UNI_'d = 1              negati : positi =      3.7 : 1.0
               UNI_plates = 1              negati : positi =      3.7 : 1.0
            UNI_attention = 1              negati : positi =      3.7 : 1.0
-                   UNI_6 = 1              negati : positi =      3.7 : 1.0
-                  UNI_'d = 1              negati : positi =      3.7 : 1.0
+               UNI_green = 1              positi : negati =      3.7 : 1.0
                UNI_beans = 1              negati : positi =      3.7 : 1.0
-              UNI_tender = 1              positi : negati =      3.7 : 1.0
                UNI_comes = 1              negati : positi =      3.7 : 1.0
-            UNI_terrible = 1              negati : positi =      3.7 : 1.0
-                UNI_meal = 2              negati : positi =      3.7 : 1.0
-               UNI_never = 2              negati : positi =      3.7 : 1.0
-                 UNI_dry = 1              negati : positi =      3.7 : 1.0
+            UNI_pleasant = 1              positi : negati =      3.7 : 1.0
                UNI_music = 1              positi : negati =      3.7 : 1.0
-            UNI_occasion = 1              positi : negati =      3.7 : 1.0
+               UNI_never = 2              negati : positi =      3.7 : 1.0
                UNI_place = 3              positi : negati =      3.7 : 1.0
-                   UNI_4 = 1              positi : negati =      3.7 : 1.0
                UNI_great = 3              positi : negati =      3.7 : 1.0
-              UNI_steaks = 1              positi : negati =      3.7 : 1.0
-               UNI_makes = 1              positi : negati =      3.7 : 1.0
-                UNI_stop = 1              positi : negati =      3.7 : 1.0
+                UNI_meal = 2              negati : positi =      3.7 : 1.0
                UNI_small = 2              negati : positi =      3.7 : 1.0
+                UNI_stop = 1              positi : negati =      3.7 : 1.0
+            UNI_occasion = 1              positi : negati =      3.7 : 1.0
+               UNI_makes = 1              positi : negati =      3.7 : 1.0
+                   UNI_4 = 1              positi : negati =      3.7 : 1.0
+                 UNI_dry = 1              negati : positi =      3.7 : 1.0
              UNI_already = 1              negati : positi =      3.7 : 1.0
+              UNI_steaks = 1              positi : negati =      3.7 : 1.0
                 UNI_came = 1              negati : positi =      3.6 : 1.0
                UNI_order = 1              negati : positi =      3.5 : 1.0
-           UNI_customers = 1              negati : positi =      3.4 : 1.0
                 UNI_bill = 1              negati : positi =      3.4 : 1.0
               UNI_pretty = 1              negati : positi =      3.4 : 1.0
-              UNI_things = 1              negati : positi =      3.4 : 1.0
+BIGRAM_dining_experience = 1              positi : negati =      3.4 : 1.0
                UNI_still = 1              negati : positi =      3.4 : 1.0
               UNI_course = 1              positi : negati =      3.4 : 1.0
-BIGRAM_dining_experience = 1              positi : negati =      3.4 : 1.0
+           UNI_customers = 1              negati : positi =      3.4 : 1.0
+              UNI_things = 1              negati : positi =      3.4 : 1.0
            UNI_excellent = 1              positi : negati =      3.3 : 1.0
              UNI_kitchen = 1              negati : positi =      3.3 : 1.0
              UNI_ordered = 1              negati : positi =      3.2 : 1.0
                 UNI_took = 1              negati : positi =      3.0 : 1.0
-                UNI_side = 1              positi : negati =      3.0 : 1.0
-                   UNI_5 = 1              negati : positi =      3.0 : 1.0
-                UNI_wait = 2              positi : negati =      3.0 : 1.0
-                UNI_rice = 1              negati : positi =      3.0 : 1.0
-               UNI_sushi = 1              positi : negati =      3.0 : 1.0
                 UNI_come = 1              negati : positi =      3.0 : 1.0
+                UNI_wait = 2              positi : negati =      3.0 : 1.0
+                UNI_side = 1              positi : negati =      3.0 : 1.0
+               UNI_sushi = 1              positi : negati =      3.0 : 1.0
           UNI_experience = 2              positi : negati =      3.0 : 1.0
-               UNI_could = 2              negati : positi =      3.0 : 1.0
-              UNI_waiter = 1              negati : positi =      3.0 : 1.0
+                UNI_rice = 1              negati : positi =      3.0 : 1.0
+                   UNI_5 = 1              negati : positi =      3.0 : 1.0
                 UNI_well = 2              negati : positi =      3.0 : 1.0
+              UNI_waiter = 1              negati : positi =      3.0 : 1.0
+               UNI_could = 2              negati : positi =      3.0 : 1.0
+               UNI_empty = 1              positi : negati =      3.0 : 1.0
+                UNI_help = 1              positi : negati =      3.0 : 1.0
             UNI_families = 1              negati : positi =      3.0 : 1.0
-               UNI_chain = 1              negati : positi =      3.0 : 1.0
-              UNI_couple = 1              negati : positi =      3.0 : 1.0
-BIGRAM_service_excellent = 1              positi : negati =      3.0 : 1.0
-             UNI_leaving = 1              negati : positi =      3.0 : 1.0
+                  UNI_30 = 1              negati : positi =      3.0 : 1.0
+               UNI_white = 1              positi : negati =      3.0 : 1.0

@@ -1,0 +1,1001 @@
+Most Informative Features
+                Supercar = 1              positi : negati =     17.3 : 1.0
+              Eye shadow = 1              negati : positi =     10.0 : 1.0
+               Cosmetics = 1              negati : positi =      8.5 : 1.0
+     Personal luxury car = 1              positi : negati =      7.7 : 1.0
+              Red carpet = 1              negati : positi =      7.1 : 1.0
+                Lipstick = 1              negati : positi =      7.1 : 1.0
+                    Nail = 1              negati : positi =      7.1 : 1.0
+              2019-03-16 = 1              negati : positi =      7.1 : 1.0
+              Sports car = 1              positi : negati =      7.1 : 1.0
+         Performance car = 1              positi : negati =      6.9 : 1.0
+          Luxury vehicle = 1              positi : negati =      6.2 : 1.0
+            Land vehicle = 1              positi : negati =      5.9 : 1.0
+       Automotive design = 1              positi : negati =      5.8 : 1.0
+        Basketball court = 1              negati : positi =      5.8 : 1.0
+                   Coast = 1              negati : positi =      5.8 : 1.0
+                     Cat = 1              negati : positi =      5.8 : 1.0
+             Sports gear = 1              negati : positi =      5.1 : 1.0
+              2019-03-12 = 1              negati : positi =      5.1 : 1.0
+           Haute couture = 1              negati : positi =      5.1 : 1.0
+Small to medium-sized cats = 1              negati : positi =      5.1 : 1.0
+             Trench coat = 1              negati : positi =      5.1 : 1.0
+                     Rim = 1              positi : negati =      4.9 : 1.0
+                   Flyer = 1              positi : negati =      4.9 : 1.0
+                   Organ = 1              negati : positi =      4.9 : 1.0
+              2019-03-17 = 1              negati : positi =      4.5 : 1.0
+                Lighting = 1              positi : negati =      4.5 : 1.0
+                   Shore = 1              negati : positi =      4.4 : 1.0
+                 Perfume = 1              negati : positi =      4.4 : 1.0
+                Whiskers = 1              negati : positi =      4.4 : 1.0
+                 Vehicle = 1              positi : negati =      4.4 : 1.0
+                     Car = 1              positi : negati =      4.3 : 1.0
+               Jewellery = 1              negati : positi =      4.3 : 1.0
+                    Tire = 1              positi : negati =      4.3 : 1.0
+                    Wood = 1              positi : negati =      4.3 : 1.0
+                   Snout = 1              positi : negati =      4.3 : 1.0
+          Infrastructure = 1              positi : negati =      4.3 : 1.0
+                   Coach = 1              positi : negati =      4.3 : 1.0
+                  Beanie = 1              positi : negati =      4.3 : 1.0
+                 Eyelash = 1              negati : positi =      4.0 : 1.0
+                  Helmet = 1              negati : positi =      3.9 : 1.0
+        Human settlement = 1              negati : positi =      3.7 : 1.0
+                 Daytime = 1              negati : positi =      3.7 : 1.0
+            Active pants = 1              negati : positi =      3.7 : 1.0
+               Eye liner = 1              negati : positi =      3.7 : 1.0
+      Musical instrument = 1              negati : positi =      3.7 : 1.0
+              2019-03-15 = 1              negati : positi =      3.7 : 1.0
+     Automotive exterior = 1              positi : negati =      3.7 : 1.0
+                   Navel = 1              positi : negati =      3.7 : 1.0
+      Distilled beverage = 1              positi : negati =      3.6 : 1.0
+                Cheering = 1              positi : negati =      3.6 : 1.0
+             Alloy wheel = 1              positi : negati =      3.6 : 1.0
+               cadetblue = 1              negati : positi =      3.5 : 1.0
+                 Felidae = 1              negati : positi =      3.5 : 1.0
+                  Carpet = 1              negati : positi =      3.3 : 1.0
+           Motor vehicle = 1              positi : negati =      3.2 : 1.0
+               goldenrod = 1              positi : negati =      3.2 : 1.0
+                    Dish = 1              positi : negati =      3.2 : 1.0
+                   Plaid = 1              negati : positi =      3.1 : 1.0
+                   Ankle = 1              negati : positi =      3.1 : 1.0
+                Flooring = 1              negati : positi =      3.1 : 1.0
+          Leather jacket = 1              negati : positi =      3.1 : 1.0
+           Football gear = 1              negati : positi =      3.1 : 1.0
+                 Goggles = 1              negati : positi =      3.1 : 1.0
+                 Collage = 1              negati : positi =      3.1 : 1.0
+                   Heart = 1              negati : positi =      3.1 : 1.0
+       Flash photography = 1              negati : positi =      3.1 : 1.0
+Coastal and oceanic landforms = 1              negati : positi =      3.1 : 1.0
+                Line art = 1              negati : positi =      3.1 : 1.0
+                  Collar = 1              negati : positi =      3.1 : 1.0
+                 Tropics = 1              negati : positi =      3.1 : 1.0
+                 Wedding = 1              negati : positi =      3.1 : 1.0
+        Glacial landform = 1              negati : positi =      3.1 : 1.0
+                Airplane = 1              positi : negati =      2.9 : 1.0
+                Aircraft = 1              positi : negati =      2.9 : 1.0
+           Mercedes-benz = 1              positi : negati =      2.9 : 1.0
+                  Bumper = 1              positi : negati =      2.9 : 1.0
+                    Hill = 1              positi : negati =      2.9 : 1.0
+                Sunlight = 1              positi : negati =      2.9 : 1.0
+      Tourist attraction = 1              positi : negati =      2.9 : 1.0
+ Indoor games and sports = 1              positi : negati =      2.9 : 1.0
+                 Romance = 1              positi : negati =      2.9 : 1.0
+    Water transportation = 1              positi : negati =      2.9 : 1.0
+                Festival = 1              positi : negati =      2.9 : 1.0
+                Painting = 1              positi : negati =      2.9 : 1.0
+                    Boat = 1              positi : negati =      2.9 : 1.0
+             Compact car = 1              positi : negati =      2.9 : 1.0
+           Executive car = 1              positi : negati =      2.9 : 1.0
+                     Eye = 1              negati : positi =      2.7 : 1.0
+       Material property = 1              negati : positi =      2.6 : 1.0
+                  Circle = 1              negati : positi =      2.6 : 1.0
+                  Gadget = 1              negati : positi =      2.6 : 1.0
+                  Silver = 1              negati : positi =      2.6 : 1.0
+                  Comics = 1              negati : positi =      2.6 : 1.0
+                  Blazer = 1              negati : positi =      2.6 : 1.0
+                  Finger = 1              negati : positi =      2.6 : 1.0
+                   Arena = 1              positi : negati =      2.6 : 1.0
+                    Ball = 1              positi : negati =      2.6 : 1.0
+                 Fiction = 1              negati : positi =      2.5 : 1.0
+              Urban area = 1              negati : positi =      2.5 : 1.0
+              High heels = 1              negati : positi =      2.5 : 1.0
+          Cocktail dress = 1              negati : positi =      2.5 : 1.0
+                   Metal = 1              negati : positi =      2.4 : 1.0
+               Moustache = 1              positi : negati =      2.4 : 1.0
+                    Song = 1              positi : negati =      2.4 : 1.0
+     Natural environment = 1              positi : negati =      2.4 : 1.0
+       Metropolitan area = 1              negati : positi =      2.4 : 1.0
+                    Soil = 1              negati : positi =      2.4 : 1.0
+              darksalmon = 1              negati : positi =      2.4 : 1.0
+         Swimsuit bottom = 1              negati : positi =      2.4 : 1.0
+         People on beach = 1              negati : positi =      2.4 : 1.0
+                  Father = 1              negati : positi =      2.4 : 1.0
+                Crop top = 1              negati : positi =      2.4 : 1.0
+                   Sleep = 1              negati : positi =      2.4 : 1.0
+                    Lace = 1              negati : positi =      2.4 : 1.0
+                    Iris = 1              negati : positi =      2.4 : 1.0
+              jean short = 1              negati : positi =      2.4 : 1.0
+           Extreme sport = 1              negati : positi =      2.4 : 1.0
+                Boutique = 1              negati : positi =      2.4 : 1.0
+                 Glacier = 1              negati : positi =      2.4 : 1.0
+                Necklace = 1              negati : positi =      2.4 : 1.0
+              Pedestrian = 1              negati : positi =      2.4 : 1.0
+               Palm tree = 1              negati : positi =      2.4 : 1.0
+              2019-03-14 = 1              negati : positi =      2.4 : 1.0
+                    Door = 1              negati : positi =      2.4 : 1.0
+      European shorthair = 1              negati : positi =      2.4 : 1.0
+        Physical fitness = 1              negati : positi =      2.4 : 1.0
+                  Tattoo = 1              negati : positi =      2.3 : 1.0
+                  Purple = 1              negati : positi =      2.3 : 1.0
+                Freezing = 1              positi : negati =      2.3 : 1.0
+                   Floor = 1              positi : negati =      2.3 : 1.0
+              darkorange = 1              positi : negati =      2.3 : 1.0
+  Striking combat sports = 1              positi : negati =      2.3 : 1.0
+                 Musical = 1              positi : negati =      2.3 : 1.0
+      Sports collectible = 1              positi : negati =      2.3 : 1.0
+                  Grille = 1              positi : negati =      2.3 : 1.0
+              Ingredient = 1              positi : negati =      2.3 : 1.0
+               Breakfast = 1              positi : negati =      2.3 : 1.0
+                   Actor = 1              positi : negati =      2.3 : 1.0
+               Superhero = 1              positi : negati =      2.3 : 1.0
+                    Crew = 1              positi : negati =      2.3 : 1.0
+               Cricketer = 1              positi : negati =      2.3 : 1.0
+                    Hero = 1              positi : negati =      2.3 : 1.0
+               Nightwear = 1              positi : negati =      2.3 : 1.0
+                  Briefs = 1              positi : negati =      2.3 : 1.0
+         Celestial event = 1              positi : negati =      2.3 : 1.0
+                Car seat = 1              positi : negati =      2.3 : 1.0
+              Wilderness = 1              positi : negati =      2.3 : 1.0
+               Bed sheet = 1              positi : negati =      2.3 : 1.0
+               Junk food = 1              positi : negati =      2.3 : 1.0
+                 Boating = 1              positi : negati =      2.3 : 1.0
+  Visual effect lighting = 1              positi : negati =      2.3 : 1.0
+                 Signage = 1              positi : negati =      2.3 : 1.0
+              Monochrome = 1              positi : negati =      2.3 : 1.0
+             Cobalt blue = 1              negati : positi =      2.2 : 1.0
+                darkcyan = 1              negati : positi =      2.2 : 1.0
+                     Sea = 1              negati : positi =      2.2 : 1.0
+           palegoldenrod = 1              negati : positi =      2.2 : 1.0
+                Swimwear = 1              negati : positi =      2.2 : 1.0
+                     Ear = 1              positi : negati =      2.2 : 1.0
+                   Wheel = 1              positi : negati =      2.2 : 1.0
+                Close-up = 1              negati : positi =      2.2 : 1.0
+                    Coat = 1              negati : positi =      2.2 : 1.0
+                 Comfort = 1              positi : negati =      2.2 : 1.0
+   Sport utility vehicle = 1              positi : negati =      2.2 : 1.0
+                   Stage = 1              positi : negati =      2.2 : 1.0
+                 Produce = 1              positi : negati =      2.2 : 1.0
+              Book cover = 1              positi : negati =      2.2 : 1.0
+               mistyrose = 1              positi : negati =      2.2 : 1.0
+                   Blond = 1              negati : positi =      2.1 : 1.0
+Personal protective equipment = 1              negati : positi =      2.1 : 1.0
+                 Cartoon = 1              negati : positi =      2.1 : 1.0
+                Sneakers = 1              negati : positi =      2.1 : 1.0
+     Automotive lighting = 1              positi : negati =      2.1 : 1.0
+ Automotive wheel system = 1              positi : negati =      2.1 : 1.0
+                  Travel = 1              positi : negati =      2.1 : 1.0
+            midnightblue = 1              positi : negati =      2.0 : 1.0
+                   Happy = 1              positi : negati =      2.0 : 1.0
+                    Hand = 1              negati : positi =      2.0 : 1.0
+                   Crowd = 1              positi : negati =      2.0 : 1.0
+                  Violet = 1              negati : positi =      2.0 : 1.0
+               Carnivore = 1              negati : positi =      2.0 : 1.0
+                   Model = 1              negati : positi =      1.9 : 1.0
+               Furniture = 1              positi : negati =      1.9 : 1.0
+                Premiere = 1              negati : positi =      1.9 : 1.0
+            antiquewhite = 1              negati : positi =      1.9 : 1.0
+  Monochrome photography = 1              positi : negati =      1.9 : 1.0
+                 Cuisine = 1              positi : negati =      1.9 : 1.0
+                   Beach = 1              negati : positi =      1.9 : 1.0
+                  Liquid = 1              negati : positi =      1.9 : 1.0
+               Tradition = 1              negati : positi =      1.9 : 1.0
+                  Spring = 1              negati : positi =      1.9 : 1.0
+                     Hat = 1              negati : positi =      1.9 : 1.0
+                 Morning = 1              negati : positi =      1.9 : 1.0
+                  Orange = 1              positi : negati =      1.9 : 1.0
+                Darkness = 1              positi : negati =      1.9 : 1.0
+          lightslategrey = 1              positi : negati =      1.9 : 1.0
+            Public event = 1              positi : negati =      1.9 : 1.0
+            Conversation = 1              positi : negati =      1.9 : 1.0
+             Visual arts = 1              positi : negati =      1.9 : 1.0
+          Sports uniform = 1              positi : negati =      1.9 : 1.0
+                   Light = 1              positi : negati =      1.8 : 1.0
+                  Yellow = 1              positi : negati =      1.8 : 1.0
+   Geological phenomenon = 1              negati : positi =      1.8 : 1.0
+               yoga pant = 1              negati : positi =      1.8 : 1.0
+                   Flesh = 1              negati : positi =      1.8 : 1.0
+               Headpiece = 1              negati : positi =      1.8 : 1.0
+        Basketball moves = 1              negati : positi =      1.8 : 1.0
+                   Puppy = 1              negati : positi =      1.8 : 1.0
+                  Artist = 1              negati : positi =      1.8 : 1.0
+        mediumaquamarine = 1              negati : positi =      1.8 : 1.0
+               Guitarist = 1              negati : positi =      1.8 : 1.0
+              2019-03-18 = 1              negati : positi =      1.8 : 1.0
+   Aerospace engineering = 1              positi : negati =      1.8 : 1.0
+             Publication = 1              positi : negati =      1.8 : 1.0
+                  Number = 1              positi : negati =      1.8 : 1.0
+            Vehicle door = 1              positi : negati =      1.8 : 1.0
+                Official = 1              positi : negati =      1.8 : 1.0
+               Auto part = 1              positi : negati =      1.8 : 1.0
+              Family car = 1              positi : negati =      1.8 : 1.0
+                  bisque = 1              positi : negati =      1.8 : 1.0
+                   Chair = 1              positi : negati =      1.8 : 1.0
+       Fashion accessory = 1              negati : positi =      1.8 : 1.0
+                 Gesture = 1              positi : negati =      1.8 : 1.0
+             Soccer ball = 1              negati : positi =      1.8 : 1.0
+             saddlebrown = 1              negati : positi =      1.8 : 1.0
+                     Arm = 1              negati : positi =      1.8 : 1.0
+              Basketball = 1              negati : positi =      1.8 : 1.0
+           Action figure = 1              positi : negati =      1.8 : 1.0
+               aliceblue = 1              positi : negati =      1.8 : 1.0
+             Watercourse = 1              positi : negati =      1.8 : 1.0
+                    gold = 1              positi : negati =      1.8 : 1.0
+                   Horse = 1              positi : negati =      1.8 : 1.0
+                  Sunset = 1              positi : negati =      1.8 : 1.0
+                Aviation = 1              positi : negati =      1.8 : 1.0
+                 Baggage = 1              positi : negati =      1.8 : 1.0
+              Super bowl = 1              negati : positi =      1.8 : 1.0
+                  Summer = 1              negati : positi =      1.8 : 1.0
+           Entertainment = 1              positi : negati =      1.8 : 1.0
+                 Textile = 1              negati : positi =      1.7 : 1.0
+                Audience = 1              positi : negati =      1.7 : 1.0
+                     Net = 1              negati : positi =      1.7 : 1.0
+                Arecales = 1              negati : positi =      1.7 : 1.0
+           Historic site = 1              negati : positi =      1.7 : 1.0
+                   Tooth = 1              negati : positi =      1.7 : 1.0
+               Sweetness = 1              negati : positi =      1.7 : 1.0
+      Little black dress = 1              negati : positi =      1.7 : 1.0
+                 Blossom = 1              negati : positi =      1.7 : 1.0
+           Plimsoll shoe = 1              negati : positi =      1.7 : 1.0
+      Online advertising = 1              negati : positi =      1.7 : 1.0
+           Wedding dress = 1              negati : positi =      1.7 : 1.0
+                 Minivan = 1              negati : positi =      1.7 : 1.0
+       Basketball player = 1              negati : positi =      1.7 : 1.0
+          Marine biology = 1              negati : positi =      1.7 : 1.0
+                  Square = 1              negati : positi =      1.7 : 1.0
+            Fashion show = 1              negati : positi =      1.7 : 1.0
+                  Facade = 1              negati : positi =      1.7 : 1.0
+               royalblue = 1              negati : positi =      1.7 : 1.0
+      Exercise equipment = 1              negati : positi =      1.7 : 1.0
+               Trademark = 1              negati : positi =      1.7 : 1.0
+                     Jaw = 1              negati : positi =      1.7 : 1.0
+        Sleeveless shirt = 1              negati : positi =      1.7 : 1.0
+                Workwear = 1              negati : positi =      1.7 : 1.0
+            Food craving = 1              negati : positi =      1.7 : 1.0
+                  yellow = 1              negati : positi =      1.7 : 1.0
+              lightcoral = 1              negati : positi =      1.7 : 1.0
+             Centrepiece = 1              negati : positi =      1.7 : 1.0
+                    Deer = 1              negati : positi =      1.7 : 1.0
+              Underwater = 1              negati : positi =      1.7 : 1.0
+             Sun tanning = 1              negati : positi =      1.7 : 1.0
+              Vegetation = 1              negati : positi =      1.7 : 1.0
+              Boardsport = 1              negati : positi =      1.7 : 1.0
+              Employment = 1              negati : positi =      1.7 : 1.0
+                  indigo = 1              negati : positi =      1.7 : 1.0
+                  Dancer = 1              negati : positi =      1.7 : 1.0
+                   Asian = 1              negati : positi =      1.7 : 1.0
+                   brown = 1              negati : positi =      1.7 : 1.0
+               Auto show = 1              negati : positi =      1.7 : 1.0
+            Walking shoe = 1              negati : positi =      1.7 : 1.0
+           Neighbourhood = 1              negati : positi =      1.7 : 1.0
+                    Tail = 1              negati : positi =      1.7 : 1.0
+                    pink = 1              negati : positi =      1.7 : 1.0
+                   Media = 1              negati : positi =      1.7 : 1.0
+       Wedding reception = 1              negati : positi =      1.7 : 1.0
+                   Fruit = 1              negati : positi =      1.7 : 1.0
+                Learning = 1              negati : positi =      1.7 : 1.0
+Domestic short-haired cat = 1              negati : positi =      1.7 : 1.0
+               Tableware = 1              negati : positi =      1.7 : 1.0
+             Surfer hair = 1              negati : positi =      1.7 : 1.0
+                   Space = 1              positi : negati =      1.7 : 1.0
+              Atmosphere = 1              positi : negati =      1.7 : 1.0
+     White-collar worker = 1              positi : negati =      1.7 : 1.0
+                 Uniform = 1              positi : negati =      1.7 : 1.0
+                     Lip = 1              negati : positi =      1.7 : 1.0
+          cornflowerblue = 1              negati : positi =      1.6 : 1.0
+                   Dance = 1              negati : positi =      1.6 : 1.0
+                     Bag = 1              negati : positi =      1.6 : 1.0
+               rosybrown = 1              negati : positi =      1.6 : 1.0
+                   Grass = 1              positi : negati =      1.6 : 1.0
+         Performance art = 1              positi : negati =      1.6 : 1.0
+                 Singing = 1              positi : negati =      1.6 : 1.0
+               burlywood = 1              positi : negati =      1.6 : 1.0
+              Multimedia = 1              positi : negati =      1.6 : 1.0
+                 Spandex = 1              positi : negati =      1.6 : 1.0
+             Action film = 1              positi : negati =      1.6 : 1.0
+            Rock concert = 1              positi : negati =      1.6 : 1.0
+           Full-size car = 1              positi : negati =      1.6 : 1.0
+        College baseball = 1              positi : negati =      1.6 : 1.0
+             Lamborghini = 1              positi : negati =      1.6 : 1.0
+             Pack animal = 1              positi : negati =      1.6 : 1.0
+         Cake decorating = 1              positi : negati =      1.6 : 1.0
+                Figurine = 1              positi : negati =      1.6 : 1.0
+                   Chess = 1              positi : negati =      1.6 : 1.0
+                  Safari = 1              positi : negati =      1.6 : 1.0
+                 Pajamas = 1              positi : negati =      1.6 : 1.0
+                 Artwork = 1              positi : negati =      1.6 : 1.0
+            Comfort food = 1              positi : negati =      1.6 : 1.0
+              Horse tack = 1              positi : negati =      1.6 : 1.0
+          Adventure game = 1              positi : negati =      1.6 : 1.0
+                 Jumping = 1              positi : negati =      1.6 : 1.0
+              mediumblue = 1              positi : negati =      1.6 : 1.0
+                   Spitz = 1              positi : negati =      1.6 : 1.0
+             board short = 1              positi : negati =      1.6 : 1.0
+              Air travel = 1              positi : negati =      1.6 : 1.0
+                   Rugby = 1              positi : negati =      1.6 : 1.0
+           darkgoldenrod = 1              positi : negati =      1.6 : 1.0
+           Polar ice cap = 1              positi : negati =      1.6 : 1.0
+           Shootfighting = 1              positi : negati =      1.6 : 1.0
+                    News = 1              positi : negati =      1.6 : 1.0
+Meteorological phenomenon = 1              positi : negati =      1.6 : 1.0
+               Neon sign = 1              positi : negati =      1.6 : 1.0
+               Mythology = 1              positi : negati =      1.6 : 1.0
+                     Nap = 1              positi : negati =      1.6 : 1.0
+                  Bridle = 1              positi : negati =      1.6 : 1.0
+               Wrestling = 1              positi : negati =      1.6 : 1.0
+                   Laugh = 1              positi : negati =      1.6 : 1.0
+           Light fixture = 1              positi : negati =      1.6 : 1.0
+              Street art = 1              positi : negati =      1.6 : 1.0
+                  Linens = 1              positi : negati =      1.6 : 1.0
+                 Bouquet = 1              positi : negati =      1.6 : 1.0
+              Chessboard = 1              positi : negati =      1.6 : 1.0
+                 Pc game = 1              positi : negati =      1.6 : 1.0
+Plucked string instruments = 1              positi : negati =      1.6 : 1.0
+                    Lake = 1              positi : negati =      1.6 : 1.0
+              Pomeranian = 1              positi : negati =      1.6 : 1.0
+                 Cricket = 1              positi : negati =      1.6 : 1.0
+            Championship = 1              positi : negati =      1.6 : 1.0
+                   Denim = 1              negati : positi =      1.6 : 1.0
+               slategrey = 1              negati : positi =      1.6 : 1.0
+                   Child = 1              positi : negati =      1.6 : 1.0
+             Advertising = 1              positi : negati =      1.6 : 1.0
+               Long hair = 1              negati : positi =      1.6 : 1.0
+               lightpink = 1              negati : positi =      1.6 : 1.0
+                  Tartan = 1              negati : positi =      1.6 : 1.0
+                Landmark = 1              negati : positi =      1.6 : 1.0
+           Swimming pool = 1              negati : positi =      1.6 : 1.0
+               Rectangle = 1              negati : positi =      1.6 : 1.0
+                 Glasses = 1              positi : negati =      1.6 : 1.0
+              2019-03-19 = 1              positi : negati =      1.6 : 1.0
+                    Lady = 1              negati : positi =      1.6 : 1.0
+           Hair coloring = 1              positi : negati =      1.6 : 1.0
+                   Table = 1              positi : negati =      1.6 : 1.0
+              2019-03-31 = 1              positi : negati =      1.6 : 1.0
+               steelblue = 1              positi : negati =      1.6 : 1.0
+                 thistle = 1              negati : positi =      1.6 : 1.0
+                    grey = 1              negati : positi =      1.6 : 1.0
+     Fictional character = 1              negati : positi =      1.6 : 1.0
+                   Brown = 1              negati : positi =      1.6 : 1.0
+               Dog breed = 1              negati : positi =      1.6 : 1.0
+                    City = 1              negati : positi =      1.6 : 1.0
+                   Cheek = 1              negati : positi =      1.6 : 1.0
+             Interaction = 1              positi : negati =      1.6 : 1.0
+                  Beauty = 1              negati : positi =      1.6 : 1.0
+              Technology = 1              negati : positi =      1.5 : 1.0
+       Mode of transport = 1              positi : negati =      1.5 : 1.0
+                 Writing = 1              positi : negati =      1.5 : 1.0
+                  Temple = 1              positi : negati =      1.5 : 1.0
+            Combat sport = 1              positi : negati =      1.5 : 1.0
+                   Paper = 1              positi : negati =      1.5 : 1.0
+                    Play = 1              positi : negati =      1.5 : 1.0
+             Electronics = 1              positi : negati =      1.5 : 1.0
+     Astronomical object = 1              positi : negati =      1.5 : 1.0
+                   Movie = 1              positi : negati =      1.5 : 1.0
+                Football = 1              negati : positi =      1.5 : 1.0
+               Community = 1              positi : negati =      1.5 : 1.0
+                   House = 1              positi : negati =      1.5 : 1.0
+                    Rock = 1              positi : negati =      1.5 : 1.0
+           Electric blue = 1              negati : positi =      1.5 : 1.0
+                    Pink = 1              negati : positi =      1.5 : 1.0
+                  Family = 1              positi : negati =      1.5 : 1.0
+           darkslateblue = 1              negati : positi =      1.5 : 1.0
+                Trousers = 1              negati : positi =      1.5 : 1.0
+                     Dog = 1              negati : positi =      1.5 : 1.0
+                 Eyebrow = 1              negati : positi =      1.5 : 1.0
+           Athletic shoe = 1              negati : positi =      1.5 : 1.0
+                Building = 1              negati : positi =      1.5 : 1.0
+       Stock photography = 1              negati : positi =      1.5 : 1.0
+                  Tights = 1              negati : positi =      1.5 : 1.0
+         Performing arts = 1              positi : negati =      1.5 : 1.0
+                   Green = 1              negati : positi =      1.5 : 1.0
+          Sporting Group = 1              negati : positi =      1.5 : 1.0
+                   white = 1              negati : positi =      1.5 : 1.0
+                  Branch = 1              negati : positi =      1.5 : 1.0
+                 Eyewear = 1              positi : negati =      1.5 : 1.0
+              Brown hair = 1              negati : positi =      1.5 : 1.0
+                 Stadium = 1              positi : negati =      1.4 : 1.0
+                    Love = 1              positi : negati =      1.4 : 1.0
+              2019-03-28 = 1              positi : negati =      1.4 : 1.0
+                     Cap = 1              positi : negati =      1.4 : 1.0
+                  Singer = 1              positi : negati =      1.4 : 1.0
+               Landscape = 1              positi : negati =      1.4 : 1.0
+            Undergarment = 1              negati : positi =      1.4 : 1.0
+                    Nose = 1              negati : positi =      1.4 : 1.0
+             Album cover = 1              positi : negati =      1.4 : 1.0
+          Businessperson = 1              positi : negati =      1.4 : 1.0
+              Screenshot = 1              positi : negati =      1.4 : 1.0
+       Strength training = 1              negati : positi =      1.4 : 1.0
+               Skin care = 1              negati : positi =      1.4 : 1.0
+         Audio equipment = 1              negati : positi =      1.4 : 1.0
+            Photomontage = 1              negati : positi =      1.4 : 1.0
+                 Running = 1              negati : positi =      1.4 : 1.0
+             Bodybuilder = 1              negati : positi =      1.4 : 1.0
+                Highland = 1              negati : positi =      1.4 : 1.0
+                  Window = 1              negati : positi =      1.4 : 1.0
+                   wheat = 1              negati : positi =      1.4 : 1.0
+                 Ceiling = 1              negati : positi =      1.4 : 1.0
+                  Guitar = 1              negati : positi =      1.4 : 1.0
+         mediumturquoise = 1              negati : positi =      1.4 : 1.0
+      Terrestrial animal = 1              negati : positi =      1.4 : 1.0
+                    Icon = 1              negati : positi =      1.4 : 1.0
+             Baked goods = 1              negati : positi =      1.4 : 1.0
+                  Blouse = 1              negati : positi =      1.4 : 1.0
+                Baseball = 1              negati : positi =      1.4 : 1.0
+                  Trophy = 1              negati : positi =      1.4 : 1.0
+                    Wave = 1              negati : positi =      1.4 : 1.0
+             yellowgreen = 1              negati : positi =      1.4 : 1.0
+                     Gym = 1              negati : positi =      1.4 : 1.0
+                Musician = 1              negati : positi =      1.4 : 1.0
+                 Liqueur = 1              positi : negati =      1.4 : 1.0
+                 Drawing = 1              positi : negati =      1.4 : 1.0
+              Cg artwork = 1              positi : negati =      1.4 : 1.0
+               chocolate = 1              positi : negati =      1.4 : 1.0
+                 Leisure = 1              positi : negati =      1.4 : 1.0
+                   Mouth = 1              negati : positi =      1.4 : 1.0
+                   Dress = 1              negati : positi =      1.4 : 1.0
+                Forehead = 1              positi : negati =      1.4 : 1.0
+               Hairstyle = 1              negati : positi =      1.4 : 1.0
+                  Soccer = 1              negati : positi =      1.4 : 1.0
+                    Head = 1              positi : negati =      1.4 : 1.0
+              Recreation = 1              positi : negati =      1.4 : 1.0
+                  Poster = 1              positi : negati =      1.4 : 1.0
+                   Chest = 1              negati : positi =      1.4 : 1.0
+       Facial expression = 1              positi : negati =      1.4 : 1.0
+  Atmospheric phenomenon = 1              negati : positi =      1.4 : 1.0
+              sandybrown = 1              negati : positi =      1.4 : 1.0
+                  Winter = 1              negati : positi =      1.4 : 1.0
+                    Snow = 1              negati : positi =      1.4 : 1.0
+                    snow = 1              positi : negati =      1.4 : 1.0
+               Outerwear = 1              negati : positi =      1.4 : 1.0
+                   Beard = 1              positi : negati =      1.4 : 1.0
+              2019-03-24 = 1              positi : negati =      1.4 : 1.0
+                Drinking = 1              positi : negati =      1.4 : 1.0
+                Headlamp = 1              positi : negati =      1.4 : 1.0
+                    Sari = 1              positi : negati =      1.4 : 1.0
+                    Cake = 1              positi : negati =      1.4 : 1.0
+               darkgreen = 1              positi : negati =      1.4 : 1.0
+                  Sketch = 1              positi : negati =      1.4 : 1.0
+                   Label = 1              positi : negati =      1.4 : 1.0
+                Knit cap = 1              positi : negati =      1.4 : 1.0
+               Adventure = 1              positi : negati =      1.4 : 1.0
+            Hand luggage = 1              positi : negati =      1.4 : 1.0
+           Paper product = 1              positi : negati =      1.4 : 1.0
+                  Bridge = 1              positi : negati =      1.4 : 1.0
+                 Student = 1              positi : negati =      1.4 : 1.0
+           lightseagreen = 1              positi : negati =      1.4 : 1.0
+     Display advertising = 1              positi : negati =      1.4 : 1.0
+               Waterfall = 1              positi : negati =      1.4 : 1.0
+            Business jet = 1              positi : negati =      1.4 : 1.0
+                     Bed = 1              positi : negati =      1.4 : 1.0
+             Barechested = 1              negati : positi =      1.4 : 1.0
+                 Canidae = 1              negati : positi =      1.4 : 1.0
+               Turquoise = 1              negati : positi =      1.4 : 1.0
+       Competition event = 1              positi : negati =      1.4 : 1.0
+              2019-03-29 = 1              negati : positi =      1.4 : 1.0
+                   Black = 1              positi : negati =      1.4 : 1.0
+            Music artist = 1              positi : negati =      1.4 : 1.0
+              2019-03-26 = 1              negati : positi =      1.3 : 1.0
+                    Skin = 1              negati : positi =      1.3 : 1.0
+                Organism = 1              negati : positi =      1.3 : 1.0
+               Transport = 1              positi : negati =      1.3 : 1.0
+                   Event = 1              positi : negati =      1.3 : 1.0
+International rules football = 1              negati : positi =      1.3 : 1.0
+                   Trunk = 1              negati : positi =      1.3 : 1.0
+                lavender = 1              positi : negati =      1.3 : 1.0
+            Illustration = 1              negati : positi =      1.3 : 1.0
+                   World = 1              positi : negati =      1.3 : 1.0
+          darkolivegreen = 1              positi : negati =      1.3 : 1.0
+                 Fashion = 1              negati : positi =      1.3 : 1.0
+              Adaptation = 1              negati : positi =      1.3 : 1.0
+                   Night = 1              positi : negati =      1.3 : 1.0
+                 Costume = 1              negati : positi =      1.3 : 1.0
+                   Jeans = 1              negati : positi =      1.3 : 1.0
+                  Design = 1              positi : negati =      1.3 : 1.0
+                   Brand = 1              positi : negati =      1.3 : 1.0
+         Black-and-white = 1              positi : negati =      1.3 : 1.0
+               Gentleman = 1              positi : negati =      1.3 : 1.0
+                     Red = 1              negati : positi =      1.3 : 1.0
+                     Ice = 1              negati : positi =      1.3 : 1.0
+                    Town = 1              negati : positi =      1.3 : 1.0
+                   Thumb = 1              negati : positi =      1.3 : 1.0
+          Hair accessory = 1              negati : positi =      1.3 : 1.0
+  Still life photography = 1              negati : positi =      1.3 : 1.0
+                    Calm = 1              negati : positi =      1.3 : 1.0
+                    Shoe = 1              negati : positi =      1.3 : 1.0
+                   Watch = 1              negati : positi =      1.3 : 1.0
+           Body of water = 1              negati : positi =      1.3 : 1.0
+                    Face = 1              negati : positi =      1.3 : 1.0
+                Clothing = 1              negati : positi =      1.3 : 1.0
+                 Abdomen = 1              positi : negati =      1.3 : 1.0
+                    Hair = 1              negati : positi =      1.3 : 1.0
+                Standing = 1              positi : negati =      1.3 : 1.0
+                Daughter = 1              positi : negati =      1.3 : 1.0
+                    Knee = 1              positi : negati =      1.3 : 1.0
+          Graphic design = 1              negati : positi =      1.3 : 1.0
+                  Nature = 1              negati : positi =      1.3 : 1.0
+                     Leg = 1              negati : positi =      1.3 : 1.0
+             Photo shoot = 1              negati : positi =      1.3 : 1.0
+                   Style = 1              positi : negati =      1.3 : 1.0
+                  maroon = 1              positi : negati =      1.3 : 1.0
+            Social group = 1              positi : negati =      1.3 : 1.0
+                   Award = 1              positi : negati =      1.3 : 1.0
+                    teal = 1              positi : negati =      1.3 : 1.0
+               Formation = 1              positi : negati =      1.3 : 1.0
+               Pop music = 1              positi : negati =      1.3 : 1.0
+                 Stomach = 1              positi : negati =      1.3 : 1.0
+               Animation = 1              positi : negati =      1.3 : 1.0
+            Layered hair = 1              positi : negati =      1.3 : 1.0
+                   River = 1              positi : negati =      1.3 : 1.0
+                  Eating = 1              positi : negati =      1.3 : 1.0
+                    Leaf = 1              positi : negati =      1.3 : 1.0
+                  Rapper = 1              positi : negati =      1.3 : 1.0
+                    Neon = 1              positi : negati =      1.3 : 1.0
+            Grass family = 1              positi : negati =      1.3 : 1.0
+             Calligraphy = 1              positi : negati =      1.3 : 1.0
+                darkgrey = 1              negati : positi =      1.3 : 1.0
+           Fashion model = 1              negati : positi =      1.2 : 1.0
+                Snapshot = 1              positi : negati =      1.2 : 1.0
+              2019-03-27 = 1              positi : negati =      1.2 : 1.0
+                 Carmine = 1              negati : positi =      1.2 : 1.0
+                     Toy = 1              negati : positi =      1.2 : 1.0
+                 Handbag = 1              negati : positi =      1.2 : 1.0
+              Reflection = 1              negati : positi =      1.2 : 1.0
+            Outdoor shoe = 1              negati : positi =      1.2 : 1.0
+              Sunglasses = 1              positi : negati =      1.2 : 1.0
+                 Concert = 1              positi : negati =      1.2 : 1.0
+               lightgrey = 1              positi : negati =      1.2 : 1.0
+                   White = 1              positi : negati =      1.2 : 1.0
+           Soccer player = 1              negati : positi =      1.2 : 1.0
+                    Food = 1              positi : negati =      1.2 : 1.0
+                    Tree = 1              positi : negati =      1.2 : 1.0
+                   Drink = 1              negati : positi =      1.2 : 1.0
+                  Street = 1              negati : positi =      1.2 : 1.0
+          lightsteelblue = 1              negati : positi =      1.2 : 1.0
+             Formal wear = 1              negati : positi =      1.2 : 1.0
+                   Waist = 1              negati : positi =      1.2 : 1.0
+                   Cloud = 1              negati : positi =      1.2 : 1.0
+                    Gown = 1              negati : positi =      1.2 : 1.0
+           Photo caption = 1              negati : positi =      1.2 : 1.0
+                   Music = 1              positi : negati =      1.2 : 1.0
+                Wrestler = 1              negati : positi =      1.2 : 1.0
+             Talent show = 1              negati : positi =      1.2 : 1.0
+               Human leg = 1              negati : positi =      1.2 : 1.0
+                Leggings = 1              positi : negati =      1.2 : 1.0
+           palevioletred = 1              positi : negati =      1.2 : 1.0
+                    Logo = 1              positi : negati =      1.2 : 1.0
+                  Mother = 1              positi : negati =      1.2 : 1.0
+                     Job = 1              positi : negati =      1.2 : 1.0
+                   Elbow = 1              positi : negati =      1.2 : 1.0
+                   Shirt = 1              positi : negati =      1.2 : 1.0
+                    Wall = 1              positi : negati =      1.2 : 1.0
+                landmark = 1              positi : negati =      1.2 : 1.0
+             Facial hair = 1              positi : negati =      1.2 : 1.0
+                 T-shirt = 1              positi : negati =      1.2 : 1.0
+                    Team = 1              negati : positi =      1.2 : 1.0
+             Vision care = 1              positi : negati =      1.2 : 1.0
+         Interior design = 1              positi : negati =      1.2 : 1.0
+                 Toddler = 1              positi : negati =      1.2 : 1.0
+                    Font = 1              positi : negati =      1.2 : 1.0
+                Vacation = 1              negati : positi =      1.2 : 1.0
+                     tan = 1              negati : positi =      1.2 : 1.0
+                 Magenta = 1              positi : negati =      1.2 : 1.0
+                 Tourism = 1              positi : negati =      1.2 : 1.0
+                   Water = 1              negati : positi =      1.2 : 1.0
+                 dimgrey = 1              negati : positi =      1.2 : 1.0
+         Football player = 1              negati : positi =      1.2 : 1.0
+               olivedrab = 1              negati : positi =      1.2 : 1.0
+                Portrait = 1              negati : positi =      1.2 : 1.0
+              Vertebrate = 1              negati : positi =      1.2 : 1.0
+              Human body = 1              positi : negati =      1.2 : 1.0
+                   Youth = 1              positi : negati =      1.2 : 1.0
+              Tournament = 1              positi : negati =      1.2 : 1.0
+                  People = 1              positi : negati =      1.2 : 1.0
+                  Jacket = 1              negati : positi =      1.2 : 1.0
+             Performance = 1              positi : negati =      1.2 : 1.0
+                  Shorts = 1              positi : negati =      1.2 : 1.0
+       Individual sports = 1              positi : negati =      1.2 : 1.0
+   Mountainous landforms = 1              positi : negati =      1.2 : 1.0
+                   khaki = 1              positi : negati =      1.2 : 1.0
+                    Cool = 1              positi : negati =      1.2 : 1.0
+                     Fun = 1              positi : negati =      1.2 : 1.0
+                Shoulder = 1              negati : positi =      1.2 : 1.0
+                  Muscle = 1              negati : positi =      1.2 : 1.0
+               Ball game = 1              negati : positi =      1.2 : 1.0
+                    Neck = 1              negati : positi =      1.2 : 1.0
+                Footwear = 1              negati : positi =      1.2 : 1.0
+                    peru = 1              negati : positi =      1.2 : 1.0
+              2019-03-20 = 1              positi : negati =      1.2 : 1.0
+                  Selfie = 1              positi : negati =      1.1 : 1.0
+                   Plant = 1              positi : negati =      1.1 : 1.0
+                   Smile = 1              positi : negati =      1.1 : 1.0
+                Ceremony = 1              negati : positi =      1.1 : 1.0
+                 Leather = 1              negati : positi =      1.1 : 1.0
+                   Ocean = 1              negati : positi =      1.1 : 1.0
+       Natural landscape = 1              negati : positi =      1.1 : 1.0
+                     Sky = 1              positi : negati =      1.1 : 1.0
+                Magazine = 1              positi : negati =      1.1 : 1.0
+           Contact sport = 1              positi : negati =      1.1 : 1.0
+                  sienna = 1              positi : negati =      1.1 : 1.0
+                   Beige = 1              positi : negati =      1.1 : 1.0
+                  Mammal = 1              negati : positi =      1.1 : 1.0
+        Sports equipment = 1              positi : negati =      1.1 : 1.0
+                  Player = 1              negati : positi =      1.1 : 1.0
+                  Flower = 1              negati : positi =      1.1 : 1.0
+                    Male = 1              positi : negati =      1.1 : 1.0
+         Sports training = 1              positi : negati =      1.1 : 1.0
+                 Horizon = 1              positi : negati =      1.1 : 1.0
+              2019-03-21 = 1              positi : negati =      1.1 : 1.0
+            Architecture = 1              positi : negati =      1.1 : 1.0
+               firebrick = 1              negati : positi =      1.1 : 1.0
+       Electronic device = 1              negati : positi =      1.1 : 1.0
+          Street fashion = 1              positi : negati =      1.1 : 1.0
+                  Sports = 1              negati : positi =      1.1 : 1.0
+                   Peach = 1              positi : negati =      1.1 : 1.0
+               darkkhaki = 1              positi : negati =      1.1 : 1.0
+                    Room = 1              positi : negati =      1.1 : 1.0
+                    Suit = 1              positi : negati =      1.1 : 1.0
+               gainsboro = 1              negati : positi =      1.1 : 1.0
+                    Chin = 1              positi : negati =      1.1 : 1.0
+                 Sitting = 1              positi : negati =      1.1 : 1.0
+              Black hair = 1              negati : positi =      1.1 : 1.0
+                  Tuxedo = 1              positi : negati =      1.1 : 1.0
+                Mountain = 1              positi : negati =      1.1 : 1.0
+                   Human = 1              negati : positi =      1.1 : 1.0
+                  Beauty = None           positi : negati =      1.1 : 1.0
+              whitesmoke = 1              negati : positi =      1.1 : 1.0
+                 Vehicle = None           negati : positi =      1.1 : 1.0
+              2019-03-22 = 1              negati : positi =      1.1 : 1.0
+                   Thigh = 1              positi : negati =      1.1 : 1.0
+                  silver = 1              positi : negati =      1.1 : 1.0
+                   Joint = 1              negati : positi =      1.1 : 1.0
+                   linen = 1              positi : negati =      1.1 : 1.0
+              Team sport = 1              negati : positi =      1.1 : 1.0
+                 crimson = 1              negati : positi =      1.1 : 1.0
+                    Text = 1              positi : negati =      1.1 : 1.0
+              Friendship = 1              positi : negati =      1.1 : 1.0
+                   Games = 1              negati : positi =      1.1 : 1.0
+           darkslategrey = 1              positi : negati =      1.1 : 1.0
+                Graphics = 1              positi : negati =      1.1 : 1.0
+                   Party = 1              positi : negati =      1.1 : 1.0
+                  Jersey = 1              negati : positi =      1.1 : 1.0
+             Sport venue = 1              negati : positi =      1.1 : 1.0
+                    Line = 1              positi : negati =      1.1 : 1.0
+                 Product = 1              negati : positi =      1.1 : 1.0
+                     Car = None           negati : positi =      1.1 : 1.0
+              2019-03-23 = 1              negati : positi =      1.1 : 1.0
+       Automotive design = None           negati : positi =      1.1 : 1.0
+                 Fashion = None           positi : negati =      1.0 : 1.0
+                   black = 1              positi : negati =      1.0 : 1.0
+          Fashion design = 1              negati : positi =      1.0 : 1.0
+              2019-03-25 = 1              positi : negati =      1.0 : 1.0
+              Sportswear = 1              positi : negati =      1.0 : 1.0
+                  Sleeve = 1              positi : negati =      1.0 : 1.0
+                     Lip = None           positi : negati =      1.0 : 1.0
+            Land vehicle = None           negati : positi =      1.0 : 1.0
+                Clothing = None           positi : negati =      1.0 : 1.0
+                     Fan = 1              positi : negati =      1.0 : 1.0
+              2019-03-19 = None           negati : positi =      1.0 : 1.0
+                   Event = None           negati : positi =      1.0 : 1.0
+              2019-03-28 = None           negati : positi =      1.0 : 1.0
+                     Eye = None           positi : negati =      1.0 : 1.0
+               Cosmetics = None           positi : negati =      1.0 : 1.0
+                    Pink = None           positi : negati =      1.0 : 1.0
+              2019-03-29 = None           positi : negati =      1.0 : 1.0
+              Eye shadow = None           positi : negati =      1.0 : 1.0
+                 Eyebrow = None           positi : negati =      1.0 : 1.0
+                  Yellow = None           negati : positi =      1.0 : 1.0
+                   Blond = None           positi : negati =      1.0 : 1.0
+                    Hair = None           positi : negati =      1.0 : 1.0
+                    Face = None           positi : negati =      1.0 : 1.0
+          Luxury vehicle = None           negati : positi =      1.0 : 1.0
+              2019-03-26 = None           positi : negati =      1.0 : 1.0
+                    Lady = None           positi : negati =      1.0 : 1.0
+              2019-03-24 = None           negati : positi =      1.0 : 1.0
+             Photography = 1              negati : positi =      1.0 : 1.0
+               Long hair = None           positi : negati =      1.0 : 1.0
+              Sports car = None           negati : positi =      1.0 : 1.0
+              2019-03-18 = None           positi : negati =      1.0 : 1.0
+         Performance car = None           negati : positi =      1.0 : 1.0
+               Outerwear = None           positi : negati =      1.0 : 1.0
+               Hairstyle = None           positi : negati =      1.0 : 1.0
+                     Leg = None           positi : negati =      1.0 : 1.0
+                     Arm = None           positi : negati =      1.0 : 1.0
+                    Skin = None           positi : negati =      1.0 : 1.0
+                   Happy = None           negati : positi =      1.0 : 1.0
+                Supercar = None           negati : positi =      1.0 : 1.0
+                   Model = None           positi : negati =      1.0 : 1.0
+     Personal luxury car = None           negati : positi =      1.0 : 1.0
+                Forehead = None           negati : positi =      1.0 : 1.0
+                  Purple = None           positi : negati =      1.0 : 1.0
+                 Eyelash = None           positi : negati =      1.0 : 1.0
+                   Dress = None           positi : negati =      1.0 : 1.0
+       Fashion accessory = None           positi : negati =      1.0 : 1.0
+                     red = 1              negati : positi =      1.0 : 1.0
+                Training = 1              negati : positi =      1.0 : 1.0
+        Cameras & optics = 1              negati : positi =      1.0 : 1.0
+                     Pen = 1              negati : positi =      1.0 : 1.0
+ Baby & toddler clothing = 1              negati : positi =      1.0 : 1.0
+                  Autumn = 1              negati : positi =      1.0 : 1.0
+                     Tan = 1              negati : positi =      1.0 : 1.0
+                 Jet ski = 1              negati : positi =      1.0 : 1.0
+            Arctic ocean = 1              negati : positi =      1.0 : 1.0
+                 Service = 1              negati : positi =      1.0 : 1.0
+               Vegetable = 1              negati : positi =      1.0 : 1.0
+                     Wig = 1              negati : positi =      1.0 : 1.0
+              2019-03-13 = 1              negati : positi =      1.0 : 1.0
+         Water resources = 1              negati : positi =      1.0 : 1.0
+            Modern dance = 1              negati : positi =      1.0 : 1.0
+               lightblue = 1              negati : positi =      1.0 : 1.0
+            midnightblue = None           negati : positi =      1.0 : 1.0
+              Lifejacket = 1              negati : positi =      1.0 : 1.0
+                  Trunks = 1              negati : positi =      1.0 : 1.0
+                   Abaya = 1              negati : positi =      1.0 : 1.0
+                Monokini = 1              negati : positi =      1.0 : 1.0
+                 Selling = 1              negati : positi =      1.0 : 1.0
+                Buzz cut = 1              negati : positi =      1.0 : 1.0
+                 Pendant = 1              negati : positi =      1.0 : 1.0
+                Carnival = 1              negati : positi =      1.0 : 1.0
+               Slam dunk = 1              negati : positi =      1.0 : 1.0
+                 skyblue = 1              negati : positi =      1.0 : 1.0
+         Camera operator = 1              negati : positi =      1.0 : 1.0
+    Portrait photography = 1              negati : positi =      1.0 : 1.0
+                 Airline = 1              negati : positi =      1.0 : 1.0
+                     Top = 1              negati : positi =      1.0 : 1.0
+            Water bottle = 1              negati : positi =      1.0 : 1.0
+     Mercedes-benz viano = 1              negati : positi =      1.0 : 1.0
+                   Lunch = 1              negati : positi =      1.0 : 1.0
+                    Flag = 1              negati : positi =      1.0 : 1.0
+                    Hood = 1              negati : positi =      1.0 : 1.0
+        Bridal accessory = 1              negati : positi =      1.0 : 1.0
+                    Veil = 1              negati : positi =      1.0 : 1.0
+                   Couch = 1              negati : positi =      1.0 : 1.0
+                 hotpink = 1              negati : positi =      1.0 : 1.0
+                  orchid = 1              negati : positi =      1.0 : 1.0
+                 Athlete = 1              negati : positi =      1.0 : 1.0
+        Baseball uniform = 1              negati : positi =      1.0 : 1.0
+   Electronic instrument = 1              negati : positi =      1.0 : 1.0
+          Chocolate cake = 1              negati : positi =      1.0 : 1.0
+     Digital compositing = 1              negati : positi =      1.0 : 1.0
+                    Baby = 1              negati : positi =      1.0 : 1.0
+                     Tie = 1              negati : positi =      1.0 : 1.0
+            Public space = 1              negati : positi =      1.0 : 1.0
+              dodgerblue = 1              negati : positi =      1.0 : 1.0
+              Board game = 1              negati : positi =      1.0 : 1.0
+              Playground = 1              negati : positi =      1.0 : 1.0
+                  Sandal = 1              negati : positi =      1.0 : 1.0
+            Running shoe = 1              negati : positi =      1.0 : 1.0
+                Swimming = 1              negati : positi =      1.0 : 1.0
+                   Class = 1              negati : positi =      1.0 : 1.0
+       Agent provocateur = 1              negati : positi =      1.0 : 1.0
+             Cut flowers = 1              negati : positi =      1.0 : 1.0
+              lightgreen = 1              negati : positi =      1.0 : 1.0
+                    Afro = 1              negati : positi =      1.0 : 1.0
+                   Torte = 1              negati : positi =      1.0 : 1.0
+               Afterglow = 1              negati : positi =      1.0 : 1.0
+  Elephants and Mammoths = 1              negati : positi =      1.0 : 1.0
+                Wildlife = 1              negati : positi =      1.0 : 1.0
+       Macro photography = 1              negati : positi =      1.0 : 1.0
+                    Reef = 1              negati : positi =      1.0 : 1.0
+  Classical architecture = 1              negati : positi =      1.0 : 1.0
+             Dress shirt = 1              negati : positi =      1.0 : 1.0
+           Roller skates = 1              negati : positi =      1.0 : 1.0
+                  tomato = 1              negati : positi =      1.0 : 1.0
+    Personal water craft = 1              negati : positi =      1.0 : 1.0
+                     Egg = 1              negati : positi =      1.0 : 1.0
+  Professional wrestling = 1              negati : positi =      1.0 : 1.0
+                   olive = 1              negati : positi =      1.0 : 1.0
+                  Button = 1              negati : positi =      1.0 : 1.0
+      Electronic signage = 1              negati : positi =      1.0 : 1.0
+               Chocolate = 1              negati : positi =      1.0 : 1.0
+                     Hug = 1              negati : positi =      1.0 : 1.0
+        African elephant = 1              negati : positi =      1.0 : 1.0
+               Honeymoon = 1              negati : positi =      1.0 : 1.0
+                   Glove = 1              negati : positi =      1.0 : 1.0
+              Stretching = 1              negati : positi =      1.0 : 1.0
+                   Bride = 1              negati : positi =      1.0 : 1.0
+                    Font = None           negati : positi =      1.0 : 1.0
+               Moonlight = 1              negati : positi =      1.0 : 1.0
+                  Shadow = 1              negati : positi =      1.0 : 1.0
+             Competition = 1              negati : positi =      1.0 : 1.0
+                    Road = 1              negati : positi =      1.0 : 1.0
+                    Fawn = 1              negati : positi =      1.0 : 1.0
+              Management = 1              negati : positi =      1.0 : 1.0
+                  Wallet = 1              negati : positi =      1.0 : 1.0
+           darkturquoise = 1              negati : positi =      1.0 : 1.0
+            Fur clothing = 1              negati : positi =      1.0 : 1.0
+          Cherry blossom = 1              negati : positi =      1.0 : 1.0
+              Coral reef = 1              negati : positi =      1.0 : 1.0
+                    Lawn = 1              negati : positi =      1.0 : 1.0
+                   Juice = 1              negati : positi =      1.0 : 1.0
+                Parallel = 1              negati : positi =      1.0 : 1.0
+               orangered = 1              negati : positi =      1.0 : 1.0
+            Bird of prey = 1              negati : positi =      1.0 : 1.0
+            Photobombing = 1              negati : positi =      1.0 : 1.0
+                  Planet = 1              negati : positi =      1.0 : 1.0
+         Vegetable juice = 1              negati : positi =      1.0 : 1.0
+          mediumseagreen = 1              negati : positi =      1.0 : 1.0
+                  Hippie = 1              negati : positi =      1.0 : 1.0
+      Naval architecture = 1              negati : positi =      1.0 : 1.0
+                    Calf = 1              negati : positi =      1.0 : 1.0
+  Outdoor play equipment = 1              negati : positi =      1.0 : 1.0
+                Graffiti = 1              negati : positi =      1.0 : 1.0
+                   Chain = 1              negati : positi =      1.0 : 1.0
+               Sculpture = 1              negati : positi =      1.0 : 1.0
+                  Clinic = 1              negati : positi =      1.0 : 1.0
+        Luggage and bags = 1              negati : positi =      1.0 : 1.0
+                  Botany = 1              negati : positi =      1.0 : 1.0
+             Child model = 1              negati : positi =      1.0 : 1.0
+           Concert dance = 1              negati : positi =      1.0 : 1.0
+            Glass bottle = 1              negati : positi =      1.0 : 1.0
+                     Fur = 1              negati : positi =      1.0 : 1.0
+         Indian elephant = 1              negati : positi =      1.0 : 1.0
+      One-piece swimsuit = 1              negati : positi =      1.0 : 1.0
+                   Tower = 1              negati : positi =      1.0 : 1.0
+                 Nunatak = 1              negati : positi =      1.0 : 1.0
+           Companion dog = 1              negati : positi =      1.0 : 1.0
+    See-through clothing = 1              negati : positi =      1.0 : 1.0
+            Street light = 1              negati : positi =      1.0 : 1.0
+                   Coral = 1              negati : positi =      1.0 : 1.0
+     Professional boxing = 1              negati : positi =      1.0 : 1.0
+              ghostwhite = 1              negati : positi =      1.0 : 1.0
+                  Stable = 1              negati : positi =      1.0 : 1.0
+                    Bird = 1              negati : positi =      1.0 : 1.0
+                 Pilates = 1              negati : positi =      1.0 : 1.0
+                   Sound = 1              negati : positi =      1.0 : 1.0
+               Slingback = 1              negati : positi =      1.0 : 1.0
+                Web page = 1              negati : positi =      1.0 : 1.0
+            Choreography = 1              negati : positi =      1.0 : 1.0
+                Hospital = 1              negati : positi =      1.0 : 1.0
+                   Scarf = 1              negati : positi =      1.0 : 1.0
+             Water sport = 1              negati : positi =      1.0 : 1.0
+             Boxing ring = 1              negati : positi =      1.0 : 1.0
+            darkseagreen = 1              negati : positi =      1.0 : 1.0
+                  purple = 1              negati : positi =      1.0 : 1.0
+               indianred = 1              negati : positi =      1.0 : 1.0
+                 Sea ice = 1              negati : positi =      1.0 : 1.0
+          Display device = 1              negati : positi =      1.0 : 1.0
+                   Glass = 1              negati : positi =      1.0 : 1.0
+                 Asphalt = 1              negati : positi =      1.0 : 1.0
+               Grassland = 1              negati : positi =      1.0 : 1.0
+             Outer space = 1              negati : positi =      1.0 : 1.0
+     First-class cricket = 1              negati : positi =      1.0 : 1.0
+                 Iceberg = 1              negati : positi =      1.0 : 1.0
+         Baseball player = 1              negati : positi =      1.0 : 1.0
+              Microphone = 1              negati : positi =      1.0 : 1.0
+            Analog watch = 1              negati : positi =      1.0 : 1.0
+         Watch accessory = 1              negati : positi =      1.0 : 1.0
+                 Sun hat = 1              negati : positi =      1.0 : 1.0
+                 Dessert = 1              negati : positi =      1.0 : 1.0
+                   Earth = 1              negati : positi =      1.0 : 1.0
+                    Audi = 1              negati : positi =      1.0 : 1.0
+                 Website = 1              negati : positi =      1.0 : 1.0
+            lightskyblue = 1              negati : positi =      1.0 : 1.0
+            Lingerie top = 1              negati : positi =      1.0 : 1.0
+                seagreen = 1              negati : positi =      1.0 : 1.0
+                Document = 1              negati : positi =      1.0 : 1.0
+                 Bedroom = 1              negati : positi =      1.0 : 1.0
+        Animated cartoon = 1              negati : positi =      1.0 : 1.0
+            Rugby player = 1              negati : positi =      1.0 : 1.0
+                Headgear = 1              negati : positi =      1.0 : 1.0
+             Woody plant = 1              negati : positi =      1.0 : 1.0
+                  Banner = 1              negati : positi =      1.0 : 1.0
+        People in nature = 1              negati : positi =      1.0 : 1.0
+                   Fluid = 1              negati : positi =      1.0 : 1.0
+                   Strap = 1              negati : positi =      1.0 : 1.0
+                Exercise = 1              negati : positi =      1.0 : 1.0
+         Strapless dress = 1              negati : positi =      1.0 : 1.0
+              Houseplant = 1              negati : positi =      1.0 : 1.0
+                   coral = 1              negati : positi =      1.0 : 1.0
+                  Runway = 1              negati : positi =      1.0 : 1.0
+                 Ice cap = 1              negati : positi =      1.0 : 1.0
+          blanchedalmond = 1              negati : positi =      1.0 : 1.0
+                  Bottle = 1              negati : positi =      1.0 : 1.0
+              Skate shoe = 1              negati : positi =      1.0 : 1.0
+                  A-line = 1              negati : positi =      1.0 : 1.0
+            Spokesperson = 1              negati : positi =      1.0 : 1.0
+            Bodybuilding = 1              negati : positi =      1.0 : 1.0
+          Mountain range = 1              negati : positi =      1.0 : 1.0
+                  Pocket = 1              negati : positi =      1.0 : 1.0
+                    Foot = 1              negati : positi =      1.0 : 1.0
+             Handwriting = 1              negati : positi =      1.0 : 1.0
+                 Pattern = 1              negati : positi =      1.0 : 1.0
+       Material property = None           positi : negati =      1.0 : 1.0
+              2019-03-27 = None           negati : positi =      1.0 : 1.0
+                     Fun = None           negati : positi =      1.0 : 1.0
+                    Nose = None           positi : negati =      1.0 : 1.0
+              2019-03-17 = None           positi : negati =      1.0 : 1.0
+              Photograph = 1              positi : negati =      1.0 : 1.0
+                    Hand = None           positi : negati =      1.0 : 1.0
+                 Gesture = None           negati : positi =      1.0 : 1.0
+            Championship = None           negati : positi =      1.0 : 1.0
+                 Eyewear = None           negati : positi =      1.0 : 1.0
+                   Organ = None           positi : negati =      1.0 : 1.0
+                 Textile = None           positi : negati =      1.0 : 1.0
+                   Child = None           negati : positi =      1.0 : 1.0
+                  Finger = None           positi : negati =      1.0 : 1.0
+                   Cheek = None           positi : negati =      1.0 : 1.0
+               rosybrown = None           positi : negati =      1.0 : 1.0
+                   black = None           negati : positi =      1.0 : 1.0
+                 Glasses = None           negati : positi =      1.0 : 1.0
+           Motor vehicle = None           negati : positi =      1.0 : 1.0
+                Footwear = None           positi : negati =      1.0 : 1.0
+                   Stage = None           negati : positi =      1.0 : 1.0
+                Shoulder = None           positi : negati =      1.0 : 1.0
+                    Head = None           negati : positi =      1.0 : 1.0
+                  Player = None           positi : negati =      1.0 : 1.0
+                     Art = 1              positi : negati =      1.0 : 1.0
+                Football = None           positi : negati =      1.0 : 1.0
+                 Coupï¿½ = None           negati : positi =      1.0 : 1.0
+              2019-03-20 = None           negati : positi =      1.0 : 1.0
+                   Smile = None           negati : positi =      1.0 : 1.0
+         Football player = None           positi : negati =      1.0 : 1.0
+               Furniture = None           negati : positi =      1.0 : 1.0
+             Advertising = None           negati : positi =      1.0 : 1.0
+                  Summer = None           positi : negati =      1.0 : 1.0
+           Soccer player = None           positi : negati =      1.0 : 1.0
+                Close-up = None           positi : negati =      1.0 : 1.0
+                    Cool = None           negati : positi =      1.0 : 1.0
+             Photo shoot = None           positi : negati =      1.0 : 1.0
+                    Shoe = None           positi : negati =      1.0 : 1.0
+               Ball game = None           positi : negati =      1.0 : 1.0
+                  Soccer = None           positi : negati =      1.0 : 1.0
+                   Crowd = None           negati : positi =      1.0 : 1.0
+                   Green = None           positi : negati =      1.0 : 1.0
+                    Team = None           positi : negati =      1.0 : 1.0
+                 Leisure = None           negati : positi =      1.0 : 1.0
+              Recreation = None           negati : positi =      1.0 : 1.0
+                  Poster = None           negati : positi =      1.0 : 1.0
+             saddlebrown = None           positi : negati =      1.0 : 1.0
+                     Sky = None           negati : positi =      1.0 : 1.0
+                     Red = None           positi : negati =      1.0 : 1.0
+              Monochrome = None           negati : positi =      1.0 : 1.0
+         Performing arts = None           negati : positi =      1.0 : 1.0
+     Fictional character = None           positi : negati =      1.0 : 1.0
+                    grey = None           positi : negati =      1.0 : 1.0
+                   White = None           negati : positi =      1.0 : 1.0
+                Swimwear = None           positi : negati =      1.0 : 1.0
+        Physical fitness = None           positi : negati =      1.0 : 1.0
+                    Blue = 1              positi : negati =      1.0 : 1.0
+              2019-03-12 = None           positi : negati =      1.0 : 1.0
+           Haute couture = None           positi : negati =      1.0 : 1.0
+              2019-03-21 = None           negati : positi =      1.0 : 1.0
+                   Jeans = None           positi : negati =      1.0 : 1.0
+                     Rim = None           negati : positi =      1.0 : 1.0
+                    Dish = None           negati : positi =      1.0 : 1.0
+            Illustration = None           positi : negati =      1.0 : 1.0
+                   Light = None           negati : positi =      1.0 : 1.0
+             Album cover = None           negati : positi =      1.0 : 1.0
+               Gentleman = None           negati : positi =      1.0 : 1.0
+                 T-shirt = None           negati : positi =      1.0 : 1.0
+       Basketball player = None           positi : negati =      1.0 : 1.0
+             Performance = None           negati : positi =      1.0 : 1.0
+                  Sports = None           positi : negati =      1.0 : 1.0
+                  Violet = None           positi : negati =      1.0 : 1.0
+                     Sea = None           positi : negati =      1.0 : 1.0
+                   Metal = None           positi : negati =      1.0 : 1.0
+              2019-03-16 = None           positi : negati =      1.0 : 1.0
+                Lipstick = None           positi : negati =      1.0 : 1.0
+              Red carpet = None           positi : negati =      1.0 : 1.0
+                    Nail = None           positi : negati =      1.0 : 1.0
+           Fashion model = None           positi : negati =      1.0 : 1.0
+            Mid-size car = None           negati : positi =      1.0 : 1.0
+                Lighting = None           negati : positi =      1.0 : 1.0
+           Entertainment = None           negati : positi =      1.0 : 1.0
+     White-collar worker = None           negati : positi =      1.0 : 1.0
+                   Grass = None           negati : positi =      1.0 : 1.0
+             Interaction = None           negati : positi =      1.0 : 1.0
+       Facial expression = None           negati : positi =      1.0 : 1.0
+          darkolivegreen = None           negati : positi =      1.0 : 1.0
+         Black-and-white = None           negati : positi =      1.0 : 1.0
+                Snapshot = None           negati : positi =      1.0 : 1.0
+                   Denim = None           positi : negati =      1.0 : 1.0
