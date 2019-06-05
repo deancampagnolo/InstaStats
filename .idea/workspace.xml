@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16583cf6-b11c-46f8-8d23-31e636473696" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datacreator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/the_data2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LAHacks2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LAHacks2019.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataFileCreator.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataFileCreator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PictureData/bob/2019-05-07/220px-Captain_Falcon_character_portrait.png" beforeDir="false" afterPath="$PROJECT_DIR$/PictureData/bob/20190509.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PictureData/bob/2019-05-07/static.politico.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PictureData/bob/20190507.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insta_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/insta_data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/the_data3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instafeatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/instafeatures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instasolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/instasolver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_features-development-informative-features.txt" beforeDir="false" afterPath="$PROJECT_DIR$/word_features-development-informative-features.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_pos_features-development-informative-features.txt" beforeDir="false" afterPath="$PROJECT_DIR$/word_pos_features-development-informative-features.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_pos_liwc_features-development-informative-features.txt" beforeDir="false" afterPath="$PROJECT_DIR$/word_pos_liwc_features-development-informative-features.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datacreator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            <state relative-caret-position="17">
+              <caret line="10" column="160" selection-start-line="10" selection-start-column="160" selection-end-line="10" selection-end-column="160" />
               <folding>
                 <element signature="e#1#30#0" expanded="true" />
               </folding>
@@ -60,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -164,9 +149,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="447" />
-    <option name="y" value="84" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="198" />
+    <option name="y" value="141" />
     <option name="width" value="1920" />
     <option name="height" value="991" />
   </component>
@@ -175,25 +160,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="LAHacks2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LAHacks2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LAHacks2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LAHacks2019" type="462c0819:PsiDirectoryNode" />
-              <item name="PictureData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LAHacks2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LAHacks2019" type="462c0819:PsiDirectoryNode" />
-              <item name="PictureData" type="462c0819:PsiDirectoryNode" />
-              <item name="bob" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="LAHacks2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -202,6 +171,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,13 +329,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="198" y="141" width="1920" height="991" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2455216" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24760893" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.35431236" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3811189" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -495,6 +464,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/the_data3.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
@@ -542,18 +518,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/datacreator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        <state relative-caret-position="17">
+          <caret line="10" column="160" selection-start-line="10" selection-start-column="160" selection-end-line="10" selection-end-column="160" />
           <folding>
             <element signature="e#1#30#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
